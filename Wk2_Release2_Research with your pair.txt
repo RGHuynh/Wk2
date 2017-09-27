@@ -1,0 +1,19 @@
+1) What is a block-level element? What are some examples of Block-level elements? What are they used for?
+
+Block-level elements occupies the space of the parent element.
+
+E.g <p></p>,<h1></h1>. <p> tag for paragraph, <h1> tag for heading.
+
+2) Can you find any good charts or resources on when you should use these elements? For example, when might you use a div versus a section?
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
+
+https://stackoverflow.com/questions/30233447/what-is-the-difference-between-phrasing-content-and-flow-content
+
+3) What is an inline element?
+
+Inline element occupies the space bound the tag defining the element
+
+4) Do inline elements usually nest inside block-level elements, or is it typically the other way around?
+
+Inline element are usually nest inside block-level elements
